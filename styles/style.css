@@ -112,7 +112,7 @@ width: 228px;
   margin-top: 30px;
 }
 
-.two-columns__paragraph:first-of-type{margin-top:0}
+.two-columns__paragraph:first-of-type{margin-top:0;}
 
 .two-columnss {
   display: flex;
@@ -302,17 +302,13 @@ width: 228px;
   font-size: 18px;
   font-weight: normal;
   margin: 0 0 16px;
+  list-style-type: none;
 }
 
 .footer__link {
   text-decoration: none;
   color:white;
 }
-
-.footer__column-links {
-  list-style-type: none;
-  
-} 
 
 .footer__social-icon {
   padding-right: 10px;
