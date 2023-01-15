@@ -5,7 +5,7 @@
   transition: opacity .2s ease-out;
 }
   
-  .header__link:hover {
+.header__link:hover {
   opacity: 0.5;
   cursor: pointer;
 }
